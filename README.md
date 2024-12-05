@@ -76,7 +76,7 @@ A fantastic Ink Canvas in WPF/C#, with fantastic support for Seewo Boards.
 
 感谢 [WXRIW](https://github.com/WXRIW)、[Raspberry Kan](https://github.com/Raspberry-Monster)、[Kengwang](https://github.com/kengwang)、[Charles Jia](https://github.com/jiajiaxd)、[clover_yan](https://github.com/clover-yan)、[Netherite_Bowl](https://github.com/NetheriteBowl)、[Yoojun Zhou](https://github.com/NotYoojun)、[ZongziTEK](https://github.com/STBBRD)、[ChangSakura](https://github.com/ChangSakura) 为原项目贡献代码！
 
-感谢 [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass) 为该项目的发展所做出的贡献！
+感谢 [InkCanvas/InkCanvasForClass](https://github.com/InkCanvas/InkCanvasForClass)、[SketchNow/SketchNow.WPF](https://github.com/SketchNow/SketchNow.WPF) 和 [Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) 为该项目的发展所做出的贡献！
 
 ## ✅ 许可证
 
